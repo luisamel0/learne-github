@@ -1,1 +1,1 @@
-Texto de teste adicionado
+Programação de computadores se trata do processo de escrever instruções que serão executadas por um máquina, a fim de realizar determinada tarefa. Durante a execução do código, o programa criado pode interagir com outros softwares e hardware do dispositivo.
